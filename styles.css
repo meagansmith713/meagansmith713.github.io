@@ -1,0 +1,31 @@
+/* css styles */
+body {
+/*  background-color: #379683; */
+  background-color: #618257;
+/*  color: #3c4937; */
+  color: #d7ede0;
+}
+
+h1 {
+  color: #d7ede0;
+}
+
+a.about-link {
+  color: #3c4937 !important;
+}
+
+a.about-link:hover {
+  color: #d7ede0 !important;
+}
+
+.about-link-text {
+  color: #d7ede0; 
+}
+
+.bi {
+  color: #d7ede0; 
+}
+
+.about-sep {
+  color: #3c4937;
+}

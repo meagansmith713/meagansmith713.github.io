@@ -1,0 +1,22 @@
+---
+title: "Meagan Smith"
+about:
+  template: jolla
+  image: images/profile_picture.jpg
+  links:
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/messybookling/
+    - icon: linkedin
+      text: linkedIn
+      href: https://linkedin.com/in/meagansmith713
+    - icon: file-earmark-text
+      text: resume
+      href: /Meagan-Smith-Resume.pdf
+resources: 
+  - "Meagan-Smith-Resume.pdf"
+---
+
+I'm first and foremost your quintessential "creative type" in every facet of my life. I love to diversify the kinds of projects I'm working on, which currently means taking on a wide variety of freelance editing projects both fictional and nonfictional and sending exciting styles to my clients at Stitch Fix. (Did I mention that I teach dance and aerial arts, too?)
+
+I have a passion for learning and for teaching, I love working in a setting that involves communication with others, and I dive in headfirst whenever a new opportunity presents itself. Reach out to me about projects or jobs related to writing, editing, teaching, or putting together fresh ideas!
